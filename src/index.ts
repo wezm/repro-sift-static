@@ -1,7 +1,7 @@
 import {
     serve,
     serveStatic,
-} from "https://deno.land/x/sift@0.3.3/mod.ts";
+} from "https://deno.land/x/sift@0.3.4/mod.ts";
 
 const html = `<html><head><title>Static Files Example</title><link rel="stylesheet" href="style.css" /></head>
 <body><h1>Sans-serif and centred</h1><img src="image.png"></body></html>`;
